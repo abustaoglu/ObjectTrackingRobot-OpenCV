@@ -13,3 +13,5 @@ In this project, an object of a certain color is processed in real time using im
 -4x DC Motor
 
 -Power Source
+
+Youtube : https://youtu.be/COH816sTxic
