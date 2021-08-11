@@ -6,7 +6,7 @@ In this project, an object of a certain color is processed in real time using im
 
 -Raspberry Camera Module
 
--2x L393N Motor Driver
+-2x L293D Motor Driver
 
 -Ultrasonic Sensor
 
